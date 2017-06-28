@@ -1,0 +1,22 @@
+{
+  "name": "cocoaPodsTestLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of cocoaPodsTestLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/codermoe@gmail.com/cocoaPodsTestLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "codermoe@gmail.com": "codermoe@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/codermoe@gmail.com/cocoaPodsTestLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "cocoaPodsTestLibrary/Classes/**/*"
+}

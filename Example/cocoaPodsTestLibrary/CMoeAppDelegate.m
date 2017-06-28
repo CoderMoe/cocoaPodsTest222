@@ -7,11 +7,13 @@
 //
 
 #import "CMoeAppDelegate.h"
+#import "UIImage+CHAddition.h"
 
 @implementation CMoeAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    self.window;
     // Override point for customization after application launch.
     return YES;
 }
